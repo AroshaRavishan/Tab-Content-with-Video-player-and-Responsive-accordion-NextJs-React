@@ -11,6 +11,22 @@ The `CustomLearning` component is a React component designed to provide an inter
 - **Responsive Design**: The component adapts to different screen sizes, offering both desktop and mobile-friendly layouts.
 - **Animations**: Includes smooth animations for modal opening and closing, as well as tab content transitions.
 
+## Preview
+
+### Active Tabs
+![Active Tabs](https://github.com/AroshaRavishan/Tab-Content-with-Video-player-and-Responsive-accordion-NextJs-React/blob/main/Active%20tabs.png)
+
+### Desktop Video Player
+![Desktop Video Player](https://github.com/AroshaRavishan/Tab-Content-with-Video-player-and-Responsive-accordion-NextJs-React/blob/main/Desktop%20video%20player.png)
+
+### Loading Option
+![Loading Option](https://github.com/AroshaRavishan/Tab-Content-with-Video-player-and-Responsive-accordion-NextJs-React/blob/main/Loading%20option.png)
+
+### Mobile Accordion Preview
+![Mobile Accordion Preview](https://github.com/AroshaRavishan/Tab-Content-with-Video-player-and-Responsive-accordion-NextJs-React/blob/main/Mobile%20accordion%20preview.png)
+
+## Getting Started
+
 ## Props
 
 - **activeTab** (number): The initially active tab when the component loads.
