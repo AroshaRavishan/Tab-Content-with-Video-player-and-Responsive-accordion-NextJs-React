@@ -58,6 +58,13 @@ The `CustomLearning` component is a React component designed to provide an inter
 
 - **useEffect**: Clears the video URL when the modal is closed.
 
+### Dependencies
+
+- npm install react
+- npm install react-icons
+- npm install react-player
+
+
 ## Example
 
 ```jsx
