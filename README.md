@@ -76,9 +76,9 @@ The `CustomLearning` component is a React component designed to provide an inter
 
 ### Dependencies
 
-- npm install react
-- npm install react-icons
-- npm install react-player
+- `npm install react`
+- `npm install react-icons`
+- `npm install react-player`
 
 
 ## Example
